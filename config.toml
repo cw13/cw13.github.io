@@ -3,6 +3,7 @@ title        = "C Wilkinson Software"
 languageCode = "en-gb"
 theme        = "hello-friend-ng"
 paginate     = 10
+publishDir   = "docs"
 
 [ author ]
 name = "C Wilkinson Software Ltd"
